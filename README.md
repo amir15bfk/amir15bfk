@@ -1,7 +1,7 @@
 ### Hi there, I'm amir 👋
 
 ## I'm a student feeling love with his lessons
-- :computer:   I'm a therd year student in computer science at usdb :flag_dz:
+- :computer:   I'm a therd year student in computer science at usdb 🇩🇿 
 - :robot:  I make discord bots and a simple python games (at least now)
 - 🌱 I’m currently learning everything 
 - 🥅 I realy love math, algorithms and data structers
