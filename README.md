@@ -30,7 +30,6 @@
 <br />
 <br />
 ---
-### Github Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amir15bfk&show_icons=true&locale=en" alt="younes38" /></p>
 
 
