@@ -42,3 +42,4 @@
 [instagram]: https://www.instagram.com/amir.ipynb/
 [linkedin]: https://www.linkedin.com/in/mohamed-amir-benbachir-2109801a6/
 [facebook]: https://www.facebook.com/amir.benbacher
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
