@@ -30,7 +30,8 @@
 <br />
 <br />
 ---
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=amir15bfk&show_icons=true&hide_border=true" />
+### Github Stats
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amir15bfk&show_icons=true&locale=en" alt="younes38" /></p>
 
 
 [instagram]: https://www.instagram.com/amir.ipynb/
