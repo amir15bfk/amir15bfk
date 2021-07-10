@@ -42,7 +42,7 @@
 [instagram]: https://www.instagram.com/amir.ipynb/
 [linkedin]: https://www.linkedin.com/in/mohamed-amir-benbachir-2109801a6/
 [facebook]: https://www.facebook.com/amir.benbacher
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[webdevplaylist]:#
+[jsplaylist]: #
+[cssplaylist]: #
+[reactplaylist]: #
