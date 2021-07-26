@@ -30,7 +30,7 @@
 <br />
 <br />
 ---
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amir15bfk&show_icons=true&locale=en" alt="amir15bfk" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amir15bfk&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"]" alt="amir15bfk" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amir15bfk&layout=compact&text_color=daf7dc&bg_color=151515" alt="amir15bfk" /></p>
 
 
