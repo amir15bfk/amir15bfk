@@ -1,8 +1,7 @@
 ### Hi there, I'm amir 👋
 
 ## I'm a student feeling love with his lessons
-- :computer:   I'm a third year student in computer science at usdb 🇩🇿 
-- :robot:  I make discord bots and a simple python games (at least now)
+- :computer:   I'm a second year masters student in intelligent computer systems at USTHB 🇩🇿 
 - 🌱 I’m currently learning everything 
 - 🥅 I realy love math, algorithms and data structers
 - ⚡ Fun fact: 1 + 1 = 10 🤣
