@@ -4,9 +4,9 @@
 
 ## 👨‍💻 Machine Learning Engineer & Master's Student
 
-- 🎓 Currently in my second year of a Master’s in Intelligent Computer Systems at USTHB 🇩🇿
 - 🤖 Passionate about AI, Computer Vision, and Reinforcement Learning
 - 🔭 Working remotely as a AI Engineer , focusing on intelligent computer vision systems
+- 🎓 Master’s in Intelligent Computer Systems at USTHB 🇩🇿
 - 🥇 Competitive spirit: JunctionxAlgers Winner and a top competitor in hackathons and datathons!
 - 💡 Always curious: From algorithms and data structures to cloud computing and meta-heuristics
 - ⚡ Fun fact: 1 + 1 = 10 in binary! 😆
